@@ -1,3 +1,3 @@
 # Code X Cad
 
-Code X Cad is a repo for macros and Addi-ins for CAD software automation.
+Code X Cad is a repo for macros and Add-ins for CAD software automation.
